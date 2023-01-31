@@ -11,10 +11,6 @@
 3. Delete book
 4. Search books
 
-
+![Screenshot of what the project does ](screenshot project1.png?raw=true "Capstone Project")
+![Screenshot of what the project does ](screenshot project2.png?raw=true "Capstone Project")
 ![Screenshot of project](finalCapstone/screenshot project1.png)
-
-![Screenshot of what the project does ](finalCapstone/screenshotproject1.png?raw=true "Capstone Project")
-![Screenshot of what the project does ](screenshotproject2.png?raw=true "Capstone Project")
-
-
